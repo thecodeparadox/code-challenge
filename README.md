@@ -19,9 +19,3 @@ Please hit: <CONTAINER_IP_ADDR>
 
 That's it! Now You will be able to check my code challenge solutions.
 Thanks :-)
-
-```
-Abdullah Yousuf
-+880 17 81 500 500
-Skype: thecodeparadox
-```
