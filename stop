@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Stopping..."
+docker rm -f abdullah_code_challenge abdullah_code_challenge_php

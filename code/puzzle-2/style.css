@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  position: relative;
+}
+
+#square {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  background-color: #007AD0;
+  transition-property: left, top;
+  transition-duration: 300ms;
+  transition-timing-function: linear;
+}
