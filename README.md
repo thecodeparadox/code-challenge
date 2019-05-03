@@ -1,7 +1,7 @@
 
 # Code Challenge - Sr Software Engineer (PHP)
 
-You can run the check the project directly by placing the project folder to any running server Or through docker container
+You can run the check the project (`code` directory) directly by placing the project folder to any running server Or through docker container
 
 ## Docker Setup Instructions
 Below commands will setup the applications using PHP7-FPM and Nginx
